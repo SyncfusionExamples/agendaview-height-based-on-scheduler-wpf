@@ -1,2 +1,1 @@
-# agendaview-height-based-on-scheduler-wpf
-How to customize agendaview height based on Schedule height in WPF (SfScheduler)
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/12080/how-to-customize-agendaview-height-based-on-schedule-height-in-wpf-sfscheduler)**
